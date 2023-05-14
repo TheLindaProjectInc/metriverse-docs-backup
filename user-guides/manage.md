@@ -2,7 +2,7 @@
 title: Managing MRC721 Tokens
 description: 
 published: true
-date: 2023-05-14T23:23:08.021Z
+date: 2023-05-14T23:24:03.964Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-14T07:54:19.738Z
@@ -12,7 +12,7 @@ While the MRC721 token standard allows for the ability for users to manage their
 
 MetriVerse solves this dilema by providing users the ability to manage MRC721 tokens they own, which have been added to or created on the platform.
 
-The token management interface, which can be found on the [token management page](https://metriverse.exchange/app/manage/token) while logged into the platform, provides the ability to transfer, set approval for on or all tokens in the collection or to burn the token (if it is burnable).
+The token management interface, which can be found on the [token management page](https://metriverse.exchange/app/manage/token) while logged into the platform, provides basic MRC721 functionality to users.
  
 ![manage_token.png](/user-guides/manage_token.png)
 
