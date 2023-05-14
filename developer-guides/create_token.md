@@ -2,11 +2,10 @@
 title: Creating an MRC721 Token
 description: 
 published: true
-date: 2023-05-14T07:57:16.126Z
+date: 2023-05-14T08:45:43.320Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-14T07:57:16.126Z
 ---
 
-# Header
-Your content here
+<p style="text-align: center;"><strong>Coming Soon!<strong></p>
