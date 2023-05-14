@@ -2,7 +2,7 @@
 title: Managing MRC721 Tokens
 description: 
 published: true
-date: 2023-05-14T23:15:02.078Z
+date: 2023-05-14T23:19:45.054Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-14T07:54:19.738Z
@@ -23,10 +23,10 @@ The token management interface, which can be found on the [token management page
 | ![burn.png](/user-guides/burn.png =64x64) |  **Burn** | Destroy a burnable token, removing it from the circulating supply. |
 
 
-> ## Setting Approval
+> **Setting Approval**
 > Setting approval of tokens for an address should be used with caution, and only for address which are trusted by the owner.
 {.is-warning}
 
-> ## Setting Approval for All 
+> **Setting Approval for All**
 > Setting approval for all for an address gives that address permission to change or move **ALL** tokens for a given address. **EXTREME CAUTION** when using this function, as it could expose the owner to high risks.
 {.is-danger}
