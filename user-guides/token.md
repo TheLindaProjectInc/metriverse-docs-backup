@@ -2,7 +2,7 @@
 title: Adding an Existing MRC721 Token
 description: 
 published: true
-date: 2023-05-15T00:42:56.295Z
+date: 2023-05-15T01:56:23.903Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-14T07:52:51.642Z
@@ -22,7 +22,7 @@ From the [add existing token page](https://metriverse.exchange/app/manage/token/
 ![select_token.png](/user-guides/select_token.png)
 
 ### Set Token ID
-Set the `Token ID` as either the decimal or hexadecimal ID of your token.
+Set the `Token ID` as either the decimal or hexadecimal ID of your token and click `Check Validate`.
 
 ![set_token_id.png](/user-guides/set_token_id.png)
 
