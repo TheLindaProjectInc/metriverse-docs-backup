@@ -2,7 +2,7 @@
 title: Managing MRC721 Tokens
 description: 
 published: true
-date: 2023-05-14T23:27:20.276Z
+date: 2023-05-15T06:11:12.190Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-14T07:54:19.738Z
@@ -31,4 +31,4 @@ The token management interface, which can be found on the [token management page
 
 > **Setting Approval for All**
 > Setting approval for all for an address gives that address permission to change or move **ALL** tokens for a given address. **EXTREME CAUTION** when using this function, as it could expose the owner to high risks.
-{.is-danger}
+{.is-warning}
