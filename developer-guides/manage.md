@@ -2,13 +2,17 @@
 title: Managing an MRC721 Collection
 description: 
 published: true
-date: 2023-05-15T21:37:55.419Z
+date: 2023-05-15T21:40:04.465Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-14T07:58:37.361Z
 ---
 
-  
+MetriVerse provides developers the ability to manage MRC721 collections they own, which have been added to or created on the platform.
+
+The [collection management interface](https://metriverse.exchange/app/manage/collection), which can be found on the token management page while logged into the platform, provides basic MRC721 collection management functionality to developers.
+<br/>
+
 |:--------------:|:-----:|:-----------|
 | ![transfer.png](/user-guides/transfer.png =112x64) |  **Transfer** | Transfer ownership of the collection to the provided Metrix or EVM address. |
 | ![set_controller.png](/developer-guides/set_controller.png =112x64) |  **Set Controller** | Set approval for an address to manage this collection as a controller. Controllers are allowed to mint tokens in a collection. |
