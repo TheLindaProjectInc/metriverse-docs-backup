@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2023-05-15T01:29:00.390Z
+date: 2023-05-15T01:47:32.347Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-14T06:28:11.763Z
@@ -50,6 +50,6 @@ dateCreated: 2023-05-14T06:28:11.763Z
 <br/>  
   
 > ## Still have questions?
-> If you still have questions check out the [FAQ](/faq) or connect with the team and communinty on [Discord](/).
+> If you still have questions check out the [FAQ](/faq) or connect with the team and communinty on [Discord](/https://discord.gg/5Mj67juv5J).
 {.is-info}
 
