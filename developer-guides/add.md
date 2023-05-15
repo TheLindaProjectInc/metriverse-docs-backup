@@ -2,7 +2,7 @@
 title: Adding an External or Existing MRC721 Collection
 description: 
 published: true
-date: 2023-05-15T05:26:55.207Z
+date: 2023-05-15T05:28:19.305Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-14T07:58:01.019Z
@@ -17,6 +17,6 @@ Approved collections are approved for showcasing and/or trade on the MetriVerse 
 > MRC721 tokens which implement [EIP 2981](https://eips.ethereum.org/EIPS/eip-2981) are automatically supported for royalties on sales and auctions.
 {.is-info}
 
-> A 2% platform trading is applied to the sale price of MRC721 tokens for sale or auction on the MetriVerse platform.
+> A 2% platform trading as well as any ERC2981 royalties are applied to the sale price of MRC721 tokens for sale or auction on the MetriVerse platform.
 {.is-warning}
 
