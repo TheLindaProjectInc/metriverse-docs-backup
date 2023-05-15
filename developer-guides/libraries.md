@@ -2,7 +2,7 @@
 title: Libraries
 description: 
 published: true
-date: 2023-05-15T05:43:46.130Z
+date: 2023-05-15T05:43:55.966Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-14T07:58:58.695Z
@@ -21,5 +21,5 @@ It's possible to achieve this using a library.
   - an update/port of ensjs made to work for the Metrix Name Service and MetrixCoin blockchain.
 
 > ## Developer?
-> Are you a developer who would like to contribute to the MetriVerse or greater Metrix ecosystem? If so, feel free to reach out to the team and/or community in the [Metrix Discord](https://discord.gg/5Mj67juv5J) to get the discussion started!
+> Are you a developer who would like to contribute to the MetriVerse or greater Metrix ecosystem? If so, feel free to reach out to the team and/or community in the [MetrixCoin Discord](https://discord.gg/5Mj67juv5J) to get the discussion started!
 {.is-info}
