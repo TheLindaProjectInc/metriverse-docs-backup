@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2023-05-15T02:36:37.818Z
+date: 2023-05-15T02:56:37.009Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-14T06:28:11.763Z
@@ -38,7 +38,7 @@ dateCreated: 2023-05-14T06:28:11.763Z
   </tr>
   <tr>
     <td></td>
-    <td><a href="/developer-guides/libraries" style="color: #9f91ad; text-decoration: none;"><strong>Librariesz</strong></a></td>
+    <td><a href="/developer-guides/libraries" style="color: #9f91ad; text-decoration: none;"><strong>Libraries</strong></a></td>
   </tr>
   <tr>
     <td></td>
