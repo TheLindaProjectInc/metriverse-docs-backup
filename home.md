@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2023-05-15T02:34:50.252Z
+date: 2023-05-15T02:36:37.818Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-14T06:28:11.763Z
@@ -21,28 +21,28 @@ dateCreated: 2023-05-14T06:28:11.763Z
     <th><a href="/developer-guides" style="color: #9f91ad; text-decoration: none;">Developer Guides</a></th>
   </tr>
   <tr>
-    <td><a href="/user-guides/token" style="color: #9f91ad; text-decoration: none;">Adding an Existing MRC721 Token</a></td>
-    <td><a href="/developer-guides/collection" style="color: #9f91ad; text-decoration: none;">Creating an MRC721 Collection</a></td>
+    <td><a href="/user-guides/token" style="color: #9f91ad; text-decoration: none;"><strong>Adding an Existing MRC721 Token</strong></a></td>
+    <td><a href="/developer-guides/collection" style="color: #9f91ad; text-decoration: none;"><strong>Creating an MRC721 Collection</strong></a></td>
   </tr>
   <tr>
-    <td><a href="/user-guides/trade" style="color: #9f91ad; text-decoration: none;">Trading MRC721 Tokens</a></td>
-    <td><a href="/developer-guides/token" style="color: #9f91ad; text-decoration: none;">Creating an MRC721 Token</a></td>
+    <td><a href="/user-guides/trade" style="color: #9f91ad; text-decoration: none;"><strong>Trading MRC721 Tokens</strong></a></td>
+    <td><a href="/developer-guides/token" style="color: #9f91ad; text-decoration: none;"><strong>Creating an MRC721 Token</strong></a></td>
   </tr>
   <tr>
-    <td><a href="/user-guides/manage" style="color: #9f91ad; text-decoration: none;">Managing MRC721 Tokens</a></td>
-    <td><a href="/developer-guides/manage" style="color: #9f91ad; text-decoration: none;">Managing a Collection</a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td><a href="/developer-guides/add" style="color: #9f91ad; text-decoration: none;">Adding an MRC721 Collection</a></td>
+    <td><a href="/user-guides/manage" style="color: #9f91ad; text-decoration: none;"><strong>Managing MRC721 Tokens</strong></a></td>
+    <td><a href="/developer-guides/manage" style="color: #9f91ad; text-decoration: none;"><strong>Managing a Collection</strong></a></td>
   </tr>
   <tr>
     <td></td>
-    <td><a href="/developer-guides/libraries" style="color: #9f91ad; text-decoration: none;">Libraries</a></td>
+    <td><a href="/developer-guides/add" style="color: #9f91ad; text-decoration: none;"><strong>Adding an MRC721 Collection</strong></a></td>
   </tr>
   <tr>
     <td></td>
-    <td><a href="/developer-guides/api" style="color: #9f91ad; text-decoration: none;">API Reference</a></td>
+    <td><a href="/developer-guides/libraries" style="color: #9f91ad; text-decoration: none;"><strong>Librariesz</strong></a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="/developer-guides/api" style="color: #9f91ad; text-decoration: none;"><strong>API Reference</strong></a></td>
   </tr>
 </table>
 </div>
