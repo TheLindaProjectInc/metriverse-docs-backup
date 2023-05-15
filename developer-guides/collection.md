@@ -2,7 +2,7 @@
 title: Creating an MRC721 Collection
 description: 
 published: true
-date: 2023-05-15T17:33:55.160Z
+date: 2023-05-15T17:35:28.447Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-14T07:56:40.660Z
@@ -18,6 +18,9 @@ Enter the collection name, symbol, any royalties and whether the tokens will be 
 ![create_collection_1.png](/developer-guides/create_collection_1.png)
 
 > If a collection is not set to have a royalty or to be burnable, it can never have a royalty or be burnable.
+{.is-info}
+
+> Once a collection name and symbol are set on the blockchain, they cannot ever be changed. Make sure to triple check all data entered.
 {.is-info}
 
 ### Set Collection Description
