@@ -2,7 +2,7 @@
 title: Creating an MRC721 Collection
 description: 
 published: true
-date: 2023-05-15T17:35:28.447Z
+date: 2023-05-15T18:13:53.148Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-14T07:56:40.660Z
@@ -38,6 +38,6 @@ Upload images for your collection. Use an image that is unique and can help iden
 
 ### Finalize Collection Creation
 
-Certify that the collection abides by the MetriVerse platform rules and guideline, accept the site royalty for token trades and submit your collection
+Certify that the collection abides by the MetriVerse platform rules and guidelines, accept the site royalty for token trades and then submit your collection.
 
 ![create_collection_4.png](/developer-guides/create_collection_4.png)
