@@ -2,7 +2,7 @@
 title: Adding an Existing MRC721 Token
 description: 
 published: true
-date: 2023-05-15T00:39:29.560Z
+date: 2023-05-15T00:40:24.169Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-14T07:52:51.642Z
@@ -21,13 +21,16 @@ From the [add existing token page](https://metriverse.exchange/app/manage/token/
 ![select_token.png](/user-guides/select_token.png)
 
 Set the `Token ID` as either the decimal or hexadecimal ID of your token.
+
 ![set_token_id.png](/user-guides/set_token_id.png)
 
 Certify your token matches the information provided in the form and submit the token for audit.
+
 ![submit_token.png](/user-guides/submit_token.png)
 
 
 The token is now submited, and will be displayed publicly on the platform after the audits have passed.
+
 ![submitted.png](/user-guides/submitted.png)
 
  You should now be able to see the status of this token at the [manage tokens page](https://metriverse.exchange/app/manage/token)
