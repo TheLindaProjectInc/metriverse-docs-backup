@@ -2,14 +2,14 @@
 title: Home
 description: 
 published: true
-date: 2023-05-15T02:32:32.879Z
+date: 2023-05-15T02:34:50.252Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-14T06:28:11.763Z
 ---
 
 ![2021_metriverse_logo-horizontal-white.svg](/2021_metriverse_logo-horizontal-white.svg =420x128){.align-center}
-<p style="text-align: center;"><strong>A powerful blockchain marketplace built on the Metrix platform<strong></p>
+<p style="text-align: center;"><strong>A powerful blockchain marketplace built on the Metrix platform</strong></p>
 <br/>
 <br/>  
   
