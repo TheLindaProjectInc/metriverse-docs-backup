@@ -2,13 +2,13 @@
 title: Developer Guides
 description: 
 published: true
-date: 2023-05-15T02:39:34.931Z
+date: 2023-05-15T02:40:13.641Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-15T02:39:34.931Z
 ---
 
-
+<div style="width: 100%; text-align:center; margin-top: 24px;">
 <table style="width: 88%; margin:0 auto;">
   <tr>
     <td><a href="/developer-guides/collection" style="color: #9f91ad; text-decoration: none;"><strong>Creating an MRC721 Collection</strong></a></td>
@@ -29,3 +29,4 @@ dateCreated: 2023-05-15T02:39:34.931Z
     <td><a href="/developer-guides/api" style="color: #9f91ad; text-decoration: none;"><strong>API Reference</strong></a></td>
   </tr>
 </table>
+</div>
