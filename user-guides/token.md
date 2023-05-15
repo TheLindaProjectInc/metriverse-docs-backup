@@ -2,7 +2,7 @@
 title: Adding an Existing MRC721 Token
 description: 
 published: true
-date: 2023-05-15T01:56:23.903Z
+date: 2023-05-15T05:33:03.698Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-14T07:52:51.642Z
@@ -10,7 +10,7 @@ dateCreated: 2023-05-14T07:52:51.642Z
 
 MetriVerse allows the owners of tokens to add their tokens for showcase, management and/or trading.
 
-> In order to be eligable to be used on the platform, the collection must have either been created through the platform, or if an external collection approved on the platform.
+> In order to be eligable to be used on the platform, the collection must have either been created through the platform, or if an external collection approved on the platform. See the [adding a collection guide](/developer-guides/add) for more information about how to add an existing and/or external MRC721 token collection.
 {.is-info}
 
 
