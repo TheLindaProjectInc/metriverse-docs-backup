@@ -1,8 +1,8 @@
 ---
-title: Adding an Existing MRC721 Collection
+title: Adding an External or Existing MRC721 Collection
 description: 
 published: true
-date: 2023-05-15T05:26:23.248Z
+date: 2023-05-15T05:26:55.207Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-14T07:58:01.019Z
