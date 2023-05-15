@@ -2,7 +2,7 @@
 title: Developer Guides
 description: 
 published: true
-date: 2023-05-15T02:40:13.641Z
+date: 2023-05-15T02:56:53.570Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-15T02:39:34.931Z
@@ -23,7 +23,7 @@ dateCreated: 2023-05-15T02:39:34.931Z
     <td><a href="/developer-guides/add" style="color: #9f91ad; text-decoration: none;"><strong>Adding an MRC721 Collection</strong></a></td>
   </tr>
   <tr>
-    <td><a href="/developer-guides/libraries" style="color: #9f91ad; text-decoration: none;"><strong>Librariesz</strong></a></td>
+    <td><a href="/developer-guides/libraries" style="color: #9f91ad; text-decoration: none;"><strong>Libraries</strong></a></td>
   </tr>
   <tr>
     <td><a href="/developer-guides/api" style="color: #9f91ad; text-decoration: none;"><strong>API Reference</strong></a></td>
