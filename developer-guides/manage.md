@@ -2,7 +2,7 @@
 title: Managing an MRC721 Collection
 description: 
 published: true
-date: 2023-05-15T21:35:17.094Z
+date: 2023-05-15T21:37:55.419Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-14T07:58:37.361Z
@@ -16,3 +16,10 @@ dateCreated: 2023-05-14T07:58:37.361Z
 | ![set_base_uri.png](/developer-guides/set_base_uri.png =112x64) |  **Set Base URI** | Set the `base uri` for the collection. This could be used in case that a developer wants to host the token metadata off MetriVerse or if the metadata is otherwise hosted elsewhere, like IPFS. |
 | ![set_mns_name.png](/developer-guides/set_mns_name.png =112x64) |  **Set MNS Name** | Set the reverse address lookup for this collection's contract address. |
 | ![renounce_ownership.png](/developer-guides/renounce_ownership.png =112x64) |  **Renounce Ownership** | Renounce ownership of this collection to the Zero address.<br/>**THIS IS A PERMANENT ACTION USE WITH CAUTION!** |
+
+
+> **Renouncing Ownership**
+> Renouncing ownership without any controllers will disable all minting from this collection and cannot be undone. 
+>
+> **THIS IS A PERMANENT ACTION USE WITH CAUTION**
+{.is-warning}
