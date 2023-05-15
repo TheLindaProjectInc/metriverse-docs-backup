@@ -2,11 +2,15 @@
 title: Libraries
 description: 
 published: true
-date: 2023-05-15T02:25:56.924Z
+date: 2023-05-15T03:08:17.676Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-14T07:58:58.695Z
 ---
+
+MetriVerse exists on the Metrix blockchain as a set of contracts which are accessible outside of the platform website. It's possible to achieve this use a library.
+
+<br/>
 
 ##### TypeScript/JavaScript
 - [metrilib](https://www.npmjs.com/package/@metrixcoin/metrilib)
