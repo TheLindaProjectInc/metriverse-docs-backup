@@ -2,13 +2,13 @@
 title: Creating an MRC721 Collection
 description: 
 published: true
-date: 2023-05-15T17:33:32.133Z
+date: 2023-05-15T17:33:55.160Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-14T07:56:40.660Z
 ---
 
-Collections can be quickly and easily created from the [collection creation page](https://metriverse.exchange/app/manage/collection/create).
+Collections can be quickly and easily created from the [collection creation page](https://metriverse.exchange/app/manage/collection/create) on the MetriVerse platform.
 
 ## Instructions
 ### Set Collection Details
