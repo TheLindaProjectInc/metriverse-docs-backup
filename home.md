@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2023-05-15T01:47:32.347Z
+date: 2023-05-15T02:32:32.879Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-14T06:28:11.763Z
@@ -17,32 +17,32 @@ dateCreated: 2023-05-14T06:28:11.763Z
 <div style="width: 100%; text-align:center; margin-top: 24px;">
   <table style="width: 88%; margin:0 auto;">
   <tr>
-    <th>User Guides</th>
-    <th>Developer Guides</th>
+    <th><a href="/user-guides" style="color: #9f91ad; text-decoration: none;">User Guides</a></th>
+    <th><a href="/developer-guides" style="color: #9f91ad; text-decoration: none;">Developer Guides</a></th>
   </tr>
   <tr>
-    <td><a href="/user-guides/token">Adding an Existing MRC721 Token</a></td>
-    <td><a href="/developer-guides/collection">Creating an MRC721 Collection</a></td>
+    <td><a href="/user-guides/token" style="color: #9f91ad; text-decoration: none;">Adding an Existing MRC721 Token</a></td>
+    <td><a href="/developer-guides/collection" style="color: #9f91ad; text-decoration: none;">Creating an MRC721 Collection</a></td>
   </tr>
   <tr>
-    <td><a href="/user-guides/trade">Trading MRC721 Tokens</a></td>
-    <td><a href="/developer-guides/token">Creating an MRC721 Token</a></td>
+    <td><a href="/user-guides/trade" style="color: #9f91ad; text-decoration: none;">Trading MRC721 Tokens</a></td>
+    <td><a href="/developer-guides/token" style="color: #9f91ad; text-decoration: none;">Creating an MRC721 Token</a></td>
   </tr>
   <tr>
-    <td><a href="/user-guides/manage">Managing MRC721 Tokens</a></td>
-    <td><a href="/developer-guides/manage">Managing a Collection</a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td><a href="/developer-guides/add">Adding an MRC721 Collection</a></td>
+    <td><a href="/user-guides/manage" style="color: #9f91ad; text-decoration: none;">Managing MRC721 Tokens</a></td>
+    <td><a href="/developer-guides/manage" style="color: #9f91ad; text-decoration: none;">Managing a Collection</a></td>
   </tr>
   <tr>
     <td></td>
-    <td><a href="/developer-guides/libraries">Libraries</a></td>
+    <td><a href="/developer-guides/add" style="color: #9f91ad; text-decoration: none;">Adding an MRC721 Collection</a></td>
   </tr>
   <tr>
     <td></td>
-    <td><a href="/developer-guides/api">API Reference</a></td>
+    <td><a href="/developer-guides/libraries" style="color: #9f91ad; text-decoration: none;">Libraries</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="/developer-guides/api" style="color: #9f91ad; text-decoration: none;">API Reference</a></td>
   </tr>
 </table>
 </div>
