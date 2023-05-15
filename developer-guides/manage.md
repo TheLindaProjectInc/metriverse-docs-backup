@@ -2,7 +2,7 @@
 title: Managing an MRC721 Collection
 description: 
 published: true
-date: 2023-05-15T21:40:04.465Z
+date: 2023-05-15T21:42:18.247Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-14T07:58:37.361Z
@@ -21,6 +21,9 @@ The [collection management interface](https://metriverse.exchange/app/manage/col
 | ![set_mns_name.png](/developer-guides/set_mns_name.png =112x64) |  **Set MNS Name** | Set the reverse address lookup for this collection's contract address. |
 | ![renounce_ownership.png](/developer-guides/renounce_ownership.png =112x64) |  **Renounce Ownership** | Renounce ownership of this collection to the Zero address.<br/>**THIS IS A PERMANENT ACTION USE WITH CAUTION!** |
 
+> **Setting Base URI**
+> Setting the Base URI to a location that does not respond with JSON metadata will render tokens essentially broken. Make sure to check that the new Base URI is working properly before setting it in the collection.
+{.is-warning}
 
 > **Renouncing Ownership**
 > Renouncing ownership without any controllers will disable all minting from this collection and cannot be undone. 
