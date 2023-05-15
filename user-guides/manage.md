@@ -2,7 +2,7 @@
 title: Managing MRC721 Tokens
 description: 
 published: true
-date: 2023-05-15T06:13:05.434Z
+date: 2023-05-15T19:14:44.453Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-14T07:54:19.738Z
@@ -20,8 +20,8 @@ The token management interface, which can be found on the [token management page
 
 |:--------------:|:-----:|:-----------|
 | ![transfer.png](/user-guides/transfer.png =64x64) |  **Transfer** | Transfer ownership of the token to the provided Metrix or EVM address. |
-| ![set_approval.png](/user-guides/set_approval.png =64x64) |  **Set Approval** | Approve an address to manage this token. Only 1 address may be approved at a time. |
-| ![set_approval_for_all.png](/user-guides/set_approval_for_all.png =64x64) |  **Set Approval for All** | Approve an address for all tokens you own in this collection. |
+| ![set_approval.png](/user-guides/set_approval.png =64x64) |  **Set Approval** | Set approval for an address to manage this token. Only 1 address may be approved at a time. |
+| ![set_approval_for_all.png](/user-guides/set_approval_for_all.png =64x64) |  **Set Approval for All** | Set approval for an address for all tokens you own in this collection. |
 | ![burn.png](/user-guides/burn.png =64x64) |  **Burn** | Destroy a burnable token, removing it from the circulating supply. |
 
 
