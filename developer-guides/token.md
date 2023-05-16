@@ -2,7 +2,7 @@
 title: Creating an MRC721 Token
 description: 
 published: true
-date: 2023-05-16T04:51:10.051Z
+date: 2023-05-16T04:51:35.992Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-14T07:57:16.126Z
@@ -11,7 +11,6 @@ dateCreated: 2023-05-14T07:57:16.126Z
 MRC721 tokens can be minted to collections created through MetriVerse from the [create token page](https://metriverse.exchange/app/manage/token/create).
 
 Both single token and batch creation are supported on the platform, with batch creation supporting up to ~138 tokens in one transaction.
-# Instructions
 
 ## Single Token Creation
 
