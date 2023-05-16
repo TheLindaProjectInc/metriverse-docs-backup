@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2023-05-15T02:56:37.009Z
+date: 2023-05-16T02:51:29.954Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-14T06:28:11.763Z
@@ -21,7 +21,7 @@ dateCreated: 2023-05-14T06:28:11.763Z
     <th><a href="/developer-guides" style="color: #9f91ad; text-decoration: none;">Developer Guides</a></th>
   </tr>
   <tr>
-    <td><a href="/user-guides/token" style="color: #9f91ad; text-decoration: none;"><strong>Adding an Existing MRC721 Token</strong></a></td>
+    <td><a href="/user-guides/profile" style="color: #9f91ad; text-decoration: none;"><strong>Creating a User Profile</strong></a></td>
     <td><a href="/developer-guides/collection" style="color: #9f91ad; text-decoration: none;"><strong>Creating an MRC721 Collection</strong></a></td>
   </tr>
   <tr>
@@ -33,7 +33,7 @@ dateCreated: 2023-05-14T06:28:11.763Z
     <td><a href="/developer-guides/manage" style="color: #9f91ad; text-decoration: none;"><strong>Managing a Collection</strong></a></td>
   </tr>
   <tr>
-    <td></td>
+    <td><a href="/user-guides/token" style="color: #9f91ad; text-decoration: none;"><strong>Adding an MRC721 Token</strong></a></td>
     <td><a href="/developer-guides/add" style="color: #9f91ad; text-decoration: none;"><strong>Adding an MRC721 Collection</strong></a></td>
   </tr>
   <tr>
