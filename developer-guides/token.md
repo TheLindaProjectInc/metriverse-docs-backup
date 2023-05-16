@@ -2,15 +2,18 @@
 title: Creating an MRC721 Token
 description: 
 published: true
-date: 2023-05-16T04:44:55.599Z
+date: 2023-05-16T04:48:13.291Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-14T07:57:16.126Z
 ---
 
-## Instructions
-### Single Token Creation
-#### Setup Token Info
+MRC721 tokens can be minted to collections created through MetriVerse from the [create token page](https://metriverse.exchange/app/manage/token/create).
+
+Both single token and batch creation are supported on the platform, with batch creation supporting up to ~138 tokens in one transaction.
+# Instructions
+## Single Token Creation
+### Setup Token Info
 Select a Token Contract from the dropdown of collections you own.
 
 The next ID in the collection will automatically be filled into the `Token ID` field, this can be changed to either any decimal or hexadecimal number which is not already present in this collection.
@@ -22,7 +25,7 @@ Click `Check Validate` to proceed with token creation. In the case that vaildati
 ![select_contract.png](/developer-guides/select_contract.png)
 
 
-#### Setup Token Details
+### Setup Token Details
 Once the token has passed validation checks token details need to be added.
 
 Set the desired name and description for the token.
@@ -32,7 +35,7 @@ Upload a token image and/or animation. If using an animation, it's highly recomm
 Add any optional attributes. Attributes are abitrary key value pairs.
 ![token_details.png](/developer-guides/token_details.png)
 
-#### Finalize Creation
+### Finalize Creation
 Certify that the token provided in the form abides by and adheares to the MetriVerse Terms and Conditions and submit the request.
 
 Token creation requires minting the token on chain, complete the transaction in MetriMask and await it's confirmation.
@@ -41,7 +44,7 @@ Token status can be seen on the [token management page](https://metriverse.excha
 
 ![submit_create_token.png](/developer-guides/submit_create_token.png)
 
-### Bulk Token Creation
+## Bulk Token Creation
 
 **Coming Soon**
 
