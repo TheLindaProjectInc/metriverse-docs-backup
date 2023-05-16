@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2023-05-16T05:15:35.580Z
+date: 2023-05-16T05:16:51.636Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-14T06:28:11.763Z
@@ -12,11 +12,12 @@ dateCreated: 2023-05-14T06:28:11.763Z
 <p style="text-align: center;"><strong>A powerful blockchain marketplace built on the Metrix platform</strong></p>
 <br/>
 <br/>  
-
+<p style="text-align: center;">
 MetriVerse is the first NFT platform on Metrix, and we're excited to have you join us on this groundbreaking journey of collecting, trading, and creating NFTs on the Metrix blockchain.
-
+</p>
+<p style="text-align: center;">
 We're thrilled to have you on board, and this documentation will serve as your go-to resource to kickstart your journey on our NFT platform. So, let's dive in and get started!
-
+</p>
 <br/>
 <br/> 
 
