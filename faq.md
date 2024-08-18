@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 description: 
 published: true
-date: 2023-05-15T18:12:25.705Z
+date: 2024-08-18T16:32:32.587Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-14T22:15:33.467Z
@@ -28,7 +28,7 @@ dateCreated: 2023-05-14T22:15:33.467Z
 | ---: | :---: | :---: |
 |  Platform Fee   |   2%  | 20 MRX|
 |  ERC2981 Royalty   |   5%  | 50 MRX|
-|         Seller           |     93%   |   970 MRX    |
+|         Seller           |     93%   |   930 MRX    |
  
 
 **The buyer would pay 1000 MRX for the token, 2% (20 MRX) would go to the MetriVerse platform, 5% (50 MRX) would go to the NFT royalty beneficiary and 93% (930 MRX) would go to the seller.**
