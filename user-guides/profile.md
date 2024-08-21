@@ -2,15 +2,15 @@
 title: Creating a User Profile
 description: 
 published: true
-date: 2024-08-21T10:02:55.007Z
+date: 2024-08-21T10:05:21.073Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-16T02:52:35.404Z
 ---
 
-User Profile Update
+Creating a User Profile
+___
 
----
 From the MetriVerse main page,click the Account icon.
 ![1000_main_page.png](/profile-guides/1000_main_page.png)
 
