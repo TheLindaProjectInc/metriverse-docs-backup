@@ -2,12 +2,15 @@
 title: Creating a User Profile
 description: 
 published: true
-date: 2024-08-21T07:33:56.148Z
+date: 2024-08-21T07:44:45.668Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-16T02:52:35.404Z
 ---
 
+WORK IN PROGRESS !!
+
+---
 There are 5 segments under Profile:
 1 - My Info
 2 - Authentication
