@@ -2,22 +2,13 @@
 title: Trading MRC721 Tokens
 description: 
 published: true
-date: 2024-08-22T08:21:32.018Z
+date: 2024-08-22T08:23:07.898Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-14T07:53:40.618Z
 ---
 
-WORK IN PROGRESS !!
----
-
 ## Instructions
-
-4 activities will be shared:
-1 - Create a Market Sale
-2 - Create a Market Auction
-3 - Buy a Token from Market Sale
-4 - Buy a Token from Market Action
 
 ### Create a Market Sale
 #### Enter Market
@@ -100,7 +91,7 @@ Wait for the transaction to be approved.
 ***Auction Accepted*** will be shown after the transaction is completed. The token is now available for auction.
 ![1308_completed.png](/profile-guides/trading-guides/1308_completed.png)
 
-### Buy a Token from Market Sale
+### Buy from Market Sale
 #### Enter Market
 Click the Market icon. Then scroll down to the ***Explore Market*** section
 ![1201_front_clicked_expanded_explore.png](/profile-guides/trading-guides/1201_front_clicked_expanded_explore.png)
@@ -122,7 +113,7 @@ Wait for the transaction to be approved.
 
 Once completed, the token will be removed from the market and added to your collection.
 
-### Buy a Token from Market Auction
+### Buy from Market Auction
 #### Enter Market
 Click the Market icon. Then scroll down to the ***Explore Market*** section
 ![1201_front_clicked_expanded_explore.png](/profile-guides/trading-guides/1201_front_clicked_expanded_explore.png)
