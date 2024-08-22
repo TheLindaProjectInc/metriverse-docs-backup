@@ -2,7 +2,7 @@
 title: Creating a User Profile
 description: 
 published: true
-date: 2024-08-22T04:30:43.268Z
+date: 2024-08-22T04:42:27.302Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-16T02:52:35.404Z
@@ -10,7 +10,7 @@ dateCreated: 2023-05-16T02:52:35.404Z
 
 ## Instructions
 
-### Select Account
+### Select Account and Profile
 From the MetriVerse main page, click the ***Account*** icon.
 ![1000_main_page.png](/profile-guides/1000_main_page.png)
 
