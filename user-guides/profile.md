@@ -2,21 +2,28 @@
 title: Creating a User Profile
 description: 
 published: true
-date: 2024-08-21T10:10:54.403Z
+date: 2024-08-22T04:30:43.268Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-16T02:52:35.404Z
 ---
 
+## Instructions
+
+### Select Account
 From the MetriVerse main page, click the ***Account*** icon.
 ![1000_main_page.png](/profile-guides/1000_main_page.png)
 
-Select ***Profile***.
+#### Select Profile
+Select ***Profile*** from the drop down menu.
 ![1010_profile_drop_down_menu.png](/profile-guides/1010_profile_drop_down_menu.png)
 
-Click ***Edit Profile*** button.
+#### Select Edit Profile
+Click ***Edit Profile*** button on the image banner.
 ![1020_profile.png](/profile-guides/1020_profile.png)
 
+### Update Avatar and Banner
+#### Set Avatar image
 Click ***Set Image***.
 ![1030_set_image.png](/profile-guides/1030_set_image.png)
 
@@ -33,6 +40,7 @@ Click ***Accept*** to complete the image update.
 The image is set.
 ![1034_image_is_set.png](/profile-guides/1034_image_is_set.png)
 
+#### Set Banner image
 Proceed to click ***Upload Banner Image***. Then click on the ***Select File to Upload*** button.
 ![1040_set_banner_select_file.png](/profile-guides/1040_set_banner_select_file.png)
 Image pixel size is ___ x ___.
@@ -40,5 +48,6 @@ Image pixel size is ___ x ___.
 Select the banner file and then click ***Accept*** to complete the banner image update.
 ![1041_loaded_and_can_see_in_background.png](/profile-guides/1041_loaded_and_can_see_in_background.png)
 
+### Update Name, Description, Social Media Information and Options
 Continue to update the profile information. Then click ***Submit Profile Update*** to accept the updates.
 ![1052_filled_in.png](/profile-guides/1052_filled_in.png)
