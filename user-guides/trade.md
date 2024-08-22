@@ -2,7 +2,7 @@
 title: Trading MRC721 Tokens
 description: 
 published: true
-date: 2024-08-22T08:23:07.898Z
+date: 2024-08-22T08:29:09.111Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-14T07:53:40.618Z
@@ -119,7 +119,7 @@ Click the Market icon. Then scroll down to the ***Explore Market*** section
 ![1201_front_clicked_expanded_explore.png](/profile-guides/trading-guides/1201_front_clicked_expanded_explore.png)
 
 In this example, we will be bidding on the yellow Pyropets. Click to select the token.
-![1404_list.png](/profile-guides/trading-guides/1404_list.png)
+![1404_list_pre_bid.png](/profile-guides/trading-guides/1404_list_pre_bid.png)
 
 Click the ***Bid*** button.
 ![1404_bid.png](/profile-guides/trading-guides/1404_bid.png)
